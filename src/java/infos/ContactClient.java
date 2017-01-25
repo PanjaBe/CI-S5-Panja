@@ -13,6 +13,7 @@ public class ContactClient {
    
    /** @pdGenerated default parent getter */
    public Client getClient() {
+       int i=20;
       return client;
    }
    
