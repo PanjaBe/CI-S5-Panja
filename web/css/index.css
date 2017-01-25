@@ -1,0 +1,19 @@
+#choix
+{
+    margin-bottom : 20px;
+    text-align : center;
+}
+
+#choix a
+{
+    display : block;
+}
+
+#choix button
+{
+    margin-top : 20px;
+    width : 300px;
+    height : 50px;
+    font-size: 35px;
+    line-height: 0px;
+}
